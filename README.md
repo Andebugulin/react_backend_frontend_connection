@@ -1,7 +1,8 @@
 # To setup backend
 
-```cd backend
-npm install express
+```
+cd backend
+npm install
 sudo systemctl start mongodb.service
 vim .env
 ```
@@ -23,7 +24,6 @@ cd ..
 ```
 cd frontend
 npm install
-npm install axios
 ```
 
 ## Return back to the root of the project
