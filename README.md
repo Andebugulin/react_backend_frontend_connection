@@ -27,7 +27,9 @@ npm install
 ```
 
 ## Return back to the root of the project
-``` cd .. ```
+```
+cd ..
+```
 
 # To run the app
 
