@@ -36,6 +36,9 @@ cd ..
 ```
 cd backend
 node src/server.js
+```
+create new terminal
+```
 cd ../frontend
 npm run dev
 ```
